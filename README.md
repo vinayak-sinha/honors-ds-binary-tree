@@ -6,6 +6,7 @@ Java binary tree and binary search tree utilities, including traversal helpers, 
 
 Course: Honors Data Structures  
 School: The Harker School  
+Term: Fall 2025  
 
 Honors Data Structures covered object-oriented Java programming and core data structures such as lists, stacks, recursion, trees, heaps, and algorithmic problem solving. This project focuses on recursive tree algorithms and binary search tree behavior.
 
